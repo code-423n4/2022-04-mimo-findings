@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "luduvigo",
+  "address": "0x30b0EAe5e9Df8a1C95dFdB7AF86aa4e7F3B51f13",
+  "risk": "2",
+  "title": "Misleading variable usage",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/10"
+}
