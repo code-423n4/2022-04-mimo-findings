@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "in contract DemandMinerV2, function setFeeCollector() allows to set ZERO address for _feeCollector",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/98"
+}
