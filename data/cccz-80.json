@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "PARMinerV2: When the return value of _a.parallel().core() is changed, it can DOS liquidate().",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/80"
+}
