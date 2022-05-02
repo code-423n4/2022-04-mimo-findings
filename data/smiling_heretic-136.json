@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "smiling_heretic",
+  "address": "0xe180d626a4229c1F1C4cb0278cE071dBcC172AdB",
+  "risk": "2",
+  "title": "Users can use updateBoost function to claim unfairly large rewards from liquidity mining contracts for themselves at cost of other users.",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/136"
+}
