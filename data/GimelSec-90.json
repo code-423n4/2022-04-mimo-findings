@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "It doesn't handle fees when transferring tokens",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/90"
+}
