@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "Fund theft In PARMinerV2 with depositing in VotingEscrow and calling updateBoost() to update user.stakeWithBoost without updating accAmountPerShare and accParAmountPerShare. and then collecting more rewards",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/115"
+}
