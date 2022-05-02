@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "SuperVault depositToVault use unchecked transferFrom with an arbitrary ERC20 asset",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/147"
+}
