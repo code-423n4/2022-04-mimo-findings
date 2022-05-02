@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "broccolirob",
+  "address": "0x5233af283e7c359a1011dc0ff480298e90c8cfd6",
+  "risk": "3",
+  "title": "Unbound loop can brick contract and freeze miner payments",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/160"
+}
