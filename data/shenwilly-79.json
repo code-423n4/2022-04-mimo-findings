@@ -1,0 +1,9 @@
+{
+  "contest": 115,
+  "handle": "shenwilly",
+  "address": "0x8b21033337a7066bCFf10Fe0b3CA2A9DA1c58A1d",
+  "risk": "2",
+  "title": "Missing validation could cause `liquidatePartial` to revert",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-04-mimo-findings/issues/79"
+}
